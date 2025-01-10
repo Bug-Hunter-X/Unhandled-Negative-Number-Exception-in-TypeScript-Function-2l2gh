@@ -1,0 +1,3 @@
+# Unhandled Negative Number Exception in TypeScript
+
+This repository demonstrates a common error in TypeScript: throwing a generic `Error` when a more specific exception type would be more informative.  The `bug.ts` file shows the initial code with the generic error handling. The improved solution in `bugSolution.ts` provides better exception handling, making debugging and error reporting more efficient.
